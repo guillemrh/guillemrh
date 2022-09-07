@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillemrh
 - 👀 I'm passionate about data science and machine learning.  
-- 🌱 I’m currently learning Natural Language Processing and SQL. 
+- 🌱 I’m currently learning about Natural Language Processing and SQL. 
 - 📫 You can reach me by email (arivor.guillem@gmail.com) or LinkedIn (https://www.linkedin.com/in/guillem-rovira-herrero/)
 
 <!---
