@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guillemrh
-- 👀 I'm passionate about data science and machine learning.  
-- 🌱 I’m currently learning about Data Structures, Algorithms and SQL.
+- 👋 Hi, I’m @guillemrh, currently working as a Data Engineer @ SDG Group.
+- 👀 I'm passionate about data engineering, data science and machine learning.  
+- 🌱 I’m currently learning Snowflake and Azure.
 - 🔍 On my repositories you can find out some of the projects I've been working on to develop my programming skills.
 - 📫 You can reach me by email (arivor.guillem@gmail.com) or LinkedIn (https://www.linkedin.com/in/guillem-rovira-herrero/)
 
