@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillemrh, currently working as a Data Engineer @ SDG Group.
-- 👀 I'm passionate about data engineering, data science and machine learning.  
-- 🌱 I’m currently learning Azure, Docker and Kubernetes.
+- 👀 I'm genuinely enthusiastic about the domains of data engineering, data science, and machine learning. Exploring the depths of large datasets and uncovering valuable insights truly excites me.
+- 🤖 Tech stack: Azure (ADF), Python(Pandas, NumPy, Scikit-learn, Seaborn, Keras,TensorFlow), SQL(T-SQL, PL/SQL), Snowflake, Power BI, Oracle (ODI) & Docker.
 - 🔍 On my repositories you can find out some of the projects I've been working on to develop my programming skills.
 - 📫 You can reach me by email (arivor.guillem@gmail.com) or LinkedIn (https://www.linkedin.com/in/guillem-rovira-herrero/)
 
