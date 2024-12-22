@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guillemrh, currently working as a Data Engineer @ SDG Group.
+- 👋 Hi, I’m @guillemrh, currently working as a Data Engineer at the European Institute of Innovation and Technology.
 - 👀 I'm genuinely enthusiastic about the domains of data engineering, data science, and machine learning. Exploring the depths of large datasets and uncovering valuable insights truly excites me.
 - 🤖 Tech stack: Azure (ADF), Python(Pandas, NumPy, Scikit-learn, Seaborn, Keras,TensorFlow), SQL(T-SQL, PL/SQL), Snowflake, Power BI, Oracle (ODI) & Docker.
 - 🔍 On my repositories you can find out some of the projects I've been working on to develop my programming skills.
