@@ -1,4 +1,4 @@
-Hi, I’m @guillemrh — Data Engineer with a chemical-engineering past and a growing obsession with backend systems, distributed data, and anything that scales without crying.
+Data Engineer with a chemical-engineering past and a growing obsession with backend systems, distributed data, and anything that scales without crying.
 
 I’ve spent the last few years building ETLs, PySpark pipelines, and cloud/data architectures. These days I’m leveling up toward backend + AI engineering with a focus on clean architecture, real deployments, and projects that don’t fall apart when Docker sneezes.
 
